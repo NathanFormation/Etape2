@@ -5,12 +5,12 @@ La charlotte aux fraises est une pâtisserie.
 ## Ingrédients
 
 - 500 g de fraises
-- 30 biscuits à la cuillère
+- 35 biscuits à la cuillère
 - 150 g d'amandes en poudre
 - 150 g de beurre
 - 2 jaunes d’ œufs
 - 100 g de sucre
-- 80 g de crème fraîche
+- 90 g de crème fraîche
 - 50 g de sucre glace
 - ½ citron
 - 6 cuillerées à soupe de sirop de sucre de canne
