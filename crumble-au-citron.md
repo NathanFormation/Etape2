@@ -8,14 +8,14 @@ Recette pour 6 crumbles individuels.
 - 25 cl de crème liquide,
 - 6 œufs,
 - 100 g de maïzena®,
-- 150 g de sucre,
+- 130 g de sucre,
 - 2 citrons verts.
 
 ## Ingrédients pour la pâte à crumble
 
 - 50 g de farine blanche,
 - 100 g de biscuits à la cannelle (type Spéculoos),
-- 50 g de sucre roux,
+- 40 g de sucre roux,
 - 100 g de beurre.
 
 ## Préparation de la crème
