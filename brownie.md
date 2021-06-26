@@ -4,7 +4,7 @@ Le gâteau basque est un dessert.
 
 ## Ingrédients
 
-- 275 g de farine,
+- 225 g de farine,
 - 1/4 de litre de lait,
 - 160 g de sucre,
 - 60 g de beurre,
@@ -21,7 +21,7 @@ Le gâteau basque est un dessert.
 
 #. Écraser 60 g de beurre avec 100 g de sucre.
 #. Ajouter un œuf , le rhum, l'huile et 1/2 sachet de sucre vanillé, mélanger.
-#. Verser 250 g de farine et la levure, pétrir pour obtenir une pâte homogène.
+#. Verser 200 g de farine et la levure, pétrir pour obtenir une pâte homogène.
 #. Laisser reposer au moins 2 heures au réfrigérateur.
 #. Chauffer le lait. Dans un récipient verser le sucre vanillé, les amandes, 2 œufs, 60 g de sucre, 25 g de farine , le jus du citron et son zeste râpé. Mélanger.
 #. Quand le lait commence à bouillir, le verser dans le plat en mélangeant.
