@@ -9,7 +9,7 @@ Recette pour 6 crumbles individuels.
 - 6 œufs,
 - 100 g de maïzena®,
 - 130 g de sucre,
-- 2 citrons verts.
+- 2 citrons jaunes.
 
 ## Ingrédients pour la pâte à crumble
 
@@ -22,7 +22,7 @@ Recette pour 6 crumbles individuels.
 
 #. Préchauffez le four thermostat 6/7 (200°C),
 #. Versez le lait et la crème dans une casserole et faites chauffer sans ébullition.
-#. Râpez les zestes des citrons verts.
+#. Râpez les zestes des citrons jaunes.
 #. Fouettez les œufs et le sucre jusqu'à ce que le mélange blanchisse et soit bien mousseux.
 #. Ajoutez la maïzena et les zestes de citrons.
 #. Mélangez puis versez le mélange lait/crème en filet en continuant à mélanger.
